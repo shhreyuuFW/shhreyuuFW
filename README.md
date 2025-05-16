@@ -1,5 +1,3 @@
-# Shreyash Patel
-
 Hey there! I'm Shreyash Patel, A cybersecurity enthusiast, Python wrangler, and web dev explorer. I just graduated, so right now I'm in my "open to cool opportunities" era.
 
 ## 🚀 About Me
@@ -15,9 +13,6 @@ Hey there! I'm Shreyash Patel, A cybersecurity enthusiast, Python wrangler, and 
 ## 🛠️ Tech Stack
 - Python, JavaScript, HTML/CSS
 - Security tools, automation, and a sprinkle of web magic
-
-## ✨ Motto
-> "Stay curious, break boundaries, and always keep it real."
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shhreyuufw/)
